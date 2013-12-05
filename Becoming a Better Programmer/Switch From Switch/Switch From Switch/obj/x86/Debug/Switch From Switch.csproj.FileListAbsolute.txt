@@ -1,0 +1,4 @@
+C:\Users\Computer\Desktop\Blog-Coding-Examples\Becoming a Better Programmer\Switch From Switch\Switch From Switch\bin\Debug\Switch From Switch.exe
+C:\Users\Computer\Desktop\Blog-Coding-Examples\Becoming a Better Programmer\Switch From Switch\Switch From Switch\bin\Debug\Switch From Switch.pdb
+C:\Users\Computer\Desktop\Blog-Coding-Examples\Becoming a Better Programmer\Switch From Switch\Switch From Switch\obj\x86\Debug\Switch From Switch.exe
+C:\Users\Computer\Desktop\Blog-Coding-Examples\Becoming a Better Programmer\Switch From Switch\Switch From Switch\obj\x86\Debug\Switch From Switch.pdb
