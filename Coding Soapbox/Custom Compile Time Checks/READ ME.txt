@@ -1,0 +1,6 @@
+Warnings:
+The project does not compile. 
+Too Much Theory.
+
+Blog Post:
+http://abdulmajidalnouri.blogspot.com/2013/12/custom-compile-time-checks.html
