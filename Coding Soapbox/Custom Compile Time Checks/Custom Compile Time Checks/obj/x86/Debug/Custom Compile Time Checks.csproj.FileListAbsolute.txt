@@ -1,0 +1,5 @@
+C:\Users\Laptop\Desktop\Custom Compile Time Checks\Custom Compile Time Checks\bin\Debug\Custom Compile Time Checks.exe
+C:\Users\Laptop\Desktop\Custom Compile Time Checks\Custom Compile Time Checks\bin\Debug\Custom Compile Time Checks.pdb
+C:\Users\Laptop\Desktop\Custom Compile Time Checks\Custom Compile Time Checks\obj\x86\Debug\Custom Compile Time Checks.exe
+C:\Users\Laptop\Desktop\Custom Compile Time Checks\Custom Compile Time Checks\obj\x86\Debug\Custom Compile Time Checks.pdb
+C:\Users\Laptop\Desktop\Custom Compile Time Checks\Custom Compile Time Checks\obj\x86\Debug\Custom Compile Time Checks.csprojResolveAssemblyReference.cache
